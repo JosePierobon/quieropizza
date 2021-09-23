@@ -9,5 +9,6 @@ namespace QuieroPizza.Web.Models
     {
         public int Id { get; set; }
         public string Descripcion { get; set; }
+        public string Masa { get; set; }
     }
 }
